@@ -21,7 +21,7 @@
 		<div class="container_16">
 				<hgroup>
 					<h1>Patrick Joanblanq</h1>
-					<h2>Physicien surdoué - Geek qualifié</h2>
+					<h2>Gros sudiste - Anti-parigot</h2>
 				</hgroup>
 
 				<figure>
@@ -58,24 +58,31 @@
 					<span class="messageform"></span>
 				</p>
 			</form>
-		</div>
+		
 	</section>
 	
 	<!-- Corps -->
 	<section role="main" class="container_16 clearfix">
 		<div class="grid_16">
-			<!-- Compétences -->
-			<div class="grid_8 competences">
-				<h3>Compétences</h3>
-				<ul class="barres">
-					<li data-skills="80">Compétences 1<span style="width: 80%;"></span></li>
-					<li data-skills="60">Compétences 2<span style="width: 60%;"></span></li>
-					<li data-skills="75">Compétences 3<span style="width: 75%;"></span></li>
-					<li data-skills="40">Compétences 4<span style="width: 40%;"></span></li>
-					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
+
+			<!-- Formations -->
+			<div class="grid_8 formations">
+				<h3>Formations</h3>
+				<ul>
+					<li>
+						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
+						<span class="lieu">Lieu</span>
+						<span class="dates">Période</span>
+						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+					</li>
+					<li>
+						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
+						<span class="lieu">Lieu</span>
+						<span class="dates">Période</span>
+						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+					</li>
 				</ul>
 			</div>
-		
 			<!-- Expériences -->
 			<div class="grid_8 experiences">
 				<h3>Expériences</h3>
@@ -98,39 +105,12 @@ nature de votre travail.</p>
 					</li>
 				</ul>
 			</div>
-		
-			<!-- Formations -->
-			<div class="grid_8 formations">
-				<h3>Formations</h3>
-				<ul>
-					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
-					</li>
-					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
-					</li>
-				</ul>
-			</div>
-			
+
 			<div class="grid_8 langues">
 				<h3>Langues</h3>
 				
 				
-				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu 
-<<<<<<< HEAD
-condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
-Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
-Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
-risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
-Duis ut erat neque, eget consectetur tellus. </p>
-
-=======
+				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu
 				condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
 				Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
 				Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
@@ -138,7 +118,6 @@ Duis ut erat neque, eget consectetur tellus. </p>
 				Duis ut erat neque, eget consectetur tellus. 
 				</p>
 
->>>>>>> bd2a89c0444c08eebbc6ba1df7d71010656f2cd3
 			</div>
 		
 			<!-- Loisirs -->
@@ -149,7 +128,19 @@ Duis ut erat neque, eget consectetur tellus. </p>
 				<p>D'autres loisirs plus vagues, complétez ici.</p>
 			</div>
 		</div>
-			
+			<!-- Compétences -->
+			<div class="grid_8 competences">
+				<h3>Compétences</h3>
+				<ul class="barres">
+					<li data-skills="80">Compétences 1<span style="width: 80%;"></span></li>
+					<li data-skills="60">Compétences 2<span style="width: 60%;"></span></li>
+					<li data-skills="75">Compétences 3<span style="width: 75%;"></span></li>
+					<li data-skills="40">Compétences 4<span style="width: 40%;"></span></li>
+					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
+				</ul>
+			</div>
+		
+	</div>
 	</section>
 
 <!-- Scripts JavaScript -->
