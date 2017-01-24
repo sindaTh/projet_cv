@@ -20,13 +20,26 @@
 	<header role="banner">
 		<div class="container_16">
 				<hgroup>
-					<h1>Sheldon COOPER</h1>
+					<h1>Patrick Joanblanq</h1>
 					<h2>Physicien surdoué - Geek qualifié</h2>
 				</hgroup>
 
 				<figure>
 					<img src="avatar.jpg" alt="Sheldon COOPER">
 				</figure>
+		</div>
+		<!-- Contact -->
+		<div class="grid_8 contact">
+			<h3>Contact</h3>
+			<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
+			<ul>
+				<li class="lieu">Nice, France</li>
+				<li class="phone">06 00 00 00 00</li>
+				<li class="mail"><a href="mailto: patrick.joanblanq@ensg.eu">mon.adresse@email.fr</a></li>
+				<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
+				<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
+                <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
+			</ul>
 		</div>
 	</header>
 	
@@ -62,7 +75,6 @@
 					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
 				</ul>
 			</div>
-		
 		
 			<!-- Expériences -->
 			<div class="grid_8 experiences">
@@ -111,12 +123,22 @@ nature de votre travail.</p>
 				
 				
 				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu 
+<<<<<<< HEAD
 condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
 Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
 Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
 risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
 Duis ut erat neque, eget consectetur tellus. </p>
 
+=======
+				condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
+				Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
+				Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
+				risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
+				Duis ut erat neque, eget consectetur tellus. 
+				</p>
+
+>>>>>>> bd2a89c0444c08eebbc6ba1df7d71010656f2cd3
 			</div>
 		
 			<!-- Loisirs -->
@@ -126,21 +148,8 @@ Duis ut erat neque, eget consectetur tellus. </p>
 				<p><strong>Association :</strong>  Musique (Violon) </p>
 				<p>D'autres loisirs plus vagues, complétez ici.</p>
 			</div>
-		
-			<!-- Contact -->
-			<div class="grid_8 contact">
-				<h3>Contact</h3>
-				<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
-				<ul>
-					<li class="lieu">Paris, France</li>
-					<li class="phone">06 00 00 00 00</li>
-					<li class="mail"><a href="mailto:mon.adresse@email.fr">mon.adresse@email.fr</a></li>
-					<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
-					<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
-                    <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
-				</ul>
-			</div>
 		</div>
+			
 	</section>
 
 <!-- Scripts JavaScript -->
