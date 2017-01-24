@@ -127,7 +127,7 @@ nature de votre travail.</p>
 			<!-- Compétences -->
 			<div class="grid_8 competences">
 				<h3>Compétences</h3>
-				<ul>
+				<ul class="dots">
 					<li>Programmation: C/C++,python,javascript,htlm,css,ajax... : Inconnus à son répertoire.</li>
 					<li>Bureautique : Minimum vital.</li>
 					<li>Maths/physique : les seuls dignes d'être mentionnées</li>
