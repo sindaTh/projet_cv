@@ -252,7 +252,10 @@
 		}
 		
 		section[role=main] .formations h3:after {
-			background-position: 10px -139px;
+			background-position: 10px -86px;
+		}
+		section[role=main] .langues h3:after {
+			background-position: 10px -86px;
 		}
 		
 		section[role=main] .loisirs h3:after {
