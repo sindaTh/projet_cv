@@ -22,7 +22,7 @@
 }
 
 .container_16 .grid_8 {
-	width:30.0%;
+	width:40.0%;
 }
 
 .container_16 .grid_10 {
@@ -247,36 +247,7 @@
 		line-height: 13px;
 		margin: 0 7px 17px 0;
 		padding: 5px 10px;
-	}
-	
-	/************************************************
-	/* Affichage des compétences sous forme de barres
-	*************************************************/
-	.competences .barres li {
-		margin-bottom: 21px;
-		position: relative;
-	}
-	
-	.competences .barres li:after {
-		background: #e1e1e1;
-		bottom: -4px;
-		content: ' ';
-		display: block;
-		height: 5px;
-		position: absolute;
-		width:100%;
-	}
-	
-	.competences .barres li span {
-		background: #33a4c9;
-		bottom: -4px;
-		content: ' ';
-		display: block;
-		height: 5px;
-		left: 0;
-		position: absolute;
-		width: inherit;
-		z-index: 1;
+		list-style-type: circle;
 	}
 	
 	
