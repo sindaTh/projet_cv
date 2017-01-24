@@ -13,8 +13,8 @@
 	display:inline;
 	float: left;
 	position: relative;
-	margin-left: 1%;
-	margin-right: 1%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .container_16 .grid_6 {
@@ -22,34 +22,15 @@
 }
 
 .container_16 .grid_8 {
-	width:48.0%;
+	width:40.0%;
 }
-.grid_lang{
-	max-width: 960px;
-	margin: 0 auto;
-	display:inline;
-	position: relative;
-	margin-left: 1%;
-	margin-right: 1%;
 
-}
 .container_16 .grid_10 {
 	width:60.5%;
 }
 
 .container_16 .grid_16 {
 	width:98.0%;
-}
-
-.clearfix:after {
-	clear: both;
-	content: ' ';
-	display: block;
-	font-size: 0;
-	line-height: 0;
-	visibility: hidden;
-	width: 0;
-	height: 0;
 }
 
 .clearfix {
