@@ -22,7 +22,7 @@
 }
 
 .container_16 .grid_8 {
-	width:30.0%;
+	width:40.0%;
 }
 
 .container_16 .grid_10 {
@@ -65,7 +65,7 @@
 		width: 156px;
 	}
 	
-	header figure img {
+	header hgroup figure img {
 		border-radius: 75px;
 		height: 150px;
 		position: relative;
@@ -78,14 +78,16 @@
 	}
 	
 	header hgroup h1 {
-		color:#555;
+		color: #0000FF;
 		font-family:'DroidSansBold', Arial, sans-serif;
 	}
 	
-	header hgroup h2 {
-		color:#cecece;
-		font-style: italic;
-		text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+	header h2 {
+		color:#000000;
+		text-shadow: 0.1px 0.1px 0 rgba(0,0,0,.3);
+		float: right;
+		padding: 42px 0;
+		font-size: 30px;
 	}
 
 /************
@@ -238,6 +240,9 @@
 	/**********************************************
 	/* Affichage des compétences sous forme de tags
 	**********************************************/
+	.competences .dots{
+	list-style-type: circle;	
+	}
 	.competences .tags li {
 		background-color:#33a4c9;
 		border:1px solid #1b91b7;
@@ -247,36 +252,6 @@
 		line-height: 13px;
 		margin: 0 7px 17px 0;
 		padding: 5px 10px;
-	}
-	
-	/************************************************
-	/* Affichage des compétences sous forme de barres
-	*************************************************/
-	.competences .barres li {
-		margin-bottom: 21px;
-		position: relative;
-	}
-	
-	.competences .barres li:after {
-		background: #e1e1e1;
-		bottom: -4px;
-		content: ' ';
-		display: block;
-		height: 5px;
-		position: absolute;
-		width:100%;
-	}
-	
-	.competences .barres li span {
-		background: #33a4c9;
-		bottom: -4px;
-		content: ' ';
-		display: block;
-		height: 5px;
-		left: 0;
-		position: absolute;
-		width: inherit;
-		z-index: 1;
 	}
 	
 	
@@ -291,7 +266,7 @@
 	
 	.lieu {
 		background-position: 0 -2px;
-		color: #999;
+		color: OxFFFFFF;
 	}
 	
 	.dates {
