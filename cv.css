@@ -65,7 +65,7 @@
 		width: 156px;
 	}
 	
-	header figure img {
+	header hgroup figure img {
 		border-radius: 75px;
 		height: 150px;
 		position: relative;
@@ -78,14 +78,16 @@
 	}
 	
 	header hgroup h1 {
-		color:#555;
+		color: #0000FF;
 		font-family:'DroidSansBold', Arial, sans-serif;
 	}
 	
-	header hgroup h2 {
-		color:#cecece;
-		font-style: italic;
-		text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+	header h2 {
+		color:#000000;
+		text-shadow: 0.1px 0.1px 0 rgba(0,0,0,.3);
+		float: right;
+		padding: 42px 0;
+		font-size: 25px;
 	}
 
 /************
@@ -264,7 +266,7 @@
 	
 	.lieu {
 		background-position: 0 -2px;
-		color: #999;
+		color: OxFFFFFF;
 	}
 	
 	.dates {

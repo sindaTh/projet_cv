@@ -22,11 +22,11 @@
 				<hgroup>
 					<h1>Patrick Joanblanq</h1>
 					<h2>Gros sudiste - Anti-parigot</h2>
+					<figure>
+						<img src="pelouse.jpg" alt="Sheldon COOPER">
+					</figure>
 				</hgroup>
 
-				<figure>
-					<img src="pelouse.jpg" alt="Sheldon COOPER">
-				</figure>
 		</div>
 		<!-- Contact -->
 		<div class="grid_8 contact">
@@ -36,9 +36,6 @@
 				<li class="lieu">Nice, France</li>
 				<li class="phone">06 00 00 00 00</li>
 				<li class="mail"><a href="mailto: patrick.joanblanq@ensg.eu">patrick.joanblanq@ensg.eu</a></li>
-				<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
-				<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
-                <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
 			</ul>
 		</div>
 	</header>
@@ -128,11 +125,9 @@ nature de votre travail.</p>
 			<div class="grid_8 competences">
 				<h3>Compétences</h3>
 				<ul class="dots">
-					<li>Programmation: C/C++,python,javascript,htlm,css,ajax... : Inconnus à son répertoire.</li>
+					<li>Programmation: C/C++,python,javascript,htlm,css,ajax... : Inconnus à mon répertoire.</li>
 					<li>Bureautique : Minimum vital.</li>
 					<li>Maths/physique : les seuls dignes d'être mentionnées</li>
-					<li>(in)Compétence 4<span style="width: 40%;"></li>
-					<li>(in)Compétence 5<span style="width: 95%;"></li>
 				</ul>
 			</div>
 		</div>
