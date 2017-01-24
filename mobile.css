@@ -166,53 +166,11 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	
 	section[role=main] h3 {
 		border-bottom: 1px solid #e1e1e1;
-		padding: 0 0 20px 60px;
 		margin-top: 0px;
 		position: relative;
  	}
 	
-	section[role=main] h3:after, h3:before {
-		content: ' ';
-		display: block;
-		height: 50px;
-		left: 0;
-		position: absolute;
-		top: -15px;
-		width: 50px;
-	}
 	
-	section[role=main] h3:before {
-		background-color: #33a4c9;
-		border-radius: 25px;
-	}
-	
-		/***************
-		/* Pictos titres
-		***************/
-		
-		section[role=main] h3:after {
-			background:url('../img/pictos-titre.png') no-repeat 11px 10px;
-		}
-		
-		section[role=main] .competences h3:after {
-			background-position: 11px -34px;
-		}
-	
-		section[role=main] .experiences h3:after {
-			background-position: 11px -86px;
-		}
-		
-		section[role=main] .formations h3:after {
-			background-position: 10px -139px;
-		}
-		
-		section[role=main] .loisirs h3:after {
-			background-position: 10px -250px;
-		}
-		
-		section[role=main] .contact h3:after {
-			background-position: 11px -194px;
-		}
 	
 	section[role=main] h4 {
 		margin-bottom: 0px;
