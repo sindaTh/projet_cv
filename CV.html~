@@ -58,7 +58,7 @@
 					<span class="messageform"></span>
 				</p>
 			</form>
-		
+		</div>
 	</section>
 	
 	<!-- Corps -->
@@ -140,7 +140,7 @@ nature de votre travail.</p>
 				</ul>
 			</div>
 		
-	</div>
+			
 	</section>
 
 <!-- Scripts JavaScript -->
