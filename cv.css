@@ -61,15 +61,15 @@
 		border: 3px solid #eee;
 		border-radius: 78px;
 		float: right;
-		height: 156px;
-		width: 156px;
+		height: 161px;
+		width: 312px;
 	}
 	
 	header hgroup figure img {
 		border-radius: 75px;
-		height: 150px;
+		height: 161px;
 		position: relative;
-		width: 150px;
+		width: 312px;
 	}
 	
 	header hgroup {
@@ -83,7 +83,7 @@
 	}
 	
 	header h2 {
-		color:#000000;
+		color:#0000FF;
 		text-shadow: 0.1px 0.1px 0 rgba(0,0,0,.3);
 		float: right;
 		padding: 42px 0;
