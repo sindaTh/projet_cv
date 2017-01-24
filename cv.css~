@@ -67,9 +67,9 @@
 	
 	header hgroup figure img {
 		border-radius: 75px;
-		height: 150px;
+		height: 161px;
 		position: relative;
-		width: 150px;
+		width: 312px;
 	}
 	
 	header hgroup {
