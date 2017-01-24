@@ -20,13 +20,26 @@
 	<header role="banner">
 		<div class="container_16">
 				<hgroup>
-					<h1>Sheldon COOPER</h1>
-					<h2>Physicien surdoué - Geek qualifié</h2>
+					<h1>Patrick Joanblanq</h1>
+					<h2>Gros sudiste - Anti-parigot</h2>
 				</hgroup>
 
 				<figure>
 					<img src="avatar.jpg" alt="Sheldon COOPER">
 				</figure>
+		</div>
+		<!-- Contact -->
+		<div class="grid_8 contact">
+			<h3>Contact</h3>
+			<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
+			<ul>
+				<li class="lieu">Nice, France</li>
+				<li class="phone">06 00 00 00 00</li>
+				<li class="mail"><a href="mailto: patrick.joanblanq@ensg.eu">mon.adresse@email.fr</a></li>
+				<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
+				<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
+                <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
+			</ul>
 		</div>
 	</header>
 	
@@ -45,27 +58,33 @@
 					<span class="messageform"></span>
 				</p>
 			</form>
-		</div>
+		
 	</section>
 	
 	<!-- Corps -->
 	<section role="main" class="container_16 clearfix">
 		<div class="grid_16">
-			<!-- Compétences -->
-			<div class="grid_8 competences">
-				<h3>Compétences</h3>
-				<ul class="barres">
-					<li data-skills="80">Compétences 1<span style="width: 80%;"></span></li>
-					<li data-skills="60">Compétences 2<span style="width: 60%;"></span></li>
-					<li data-skills="75">Compétences 3<span style="width: 75%;"></span></li>
-					<li data-skills="40">Compétences 4<span style="width: 40%;"></span></li>
-					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
+
+			<!-- Formations -->
+			<div class="grid_8 formations">
+				<h3>Formations</h3>
+				<ul>
+					<li>
+						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
+						<span class="lieu">Lieu</span>
+						<span class="dates">Période</span>
+						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+					</li>
+					<li>
+						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
+						<span class="lieu">Lieu</span>
+						<span class="dates">Période</span>
+						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
+					</li>
 				</ul>
 			</div>
-		</div>
-		
 			<!-- Expériences -->
-			<div class="grid_16 experiences">
+			<div class="grid_8 experiences">
 				<h3>Expériences</h3>
 				<ul>
 					<li>
@@ -86,67 +105,50 @@ nature de votre travail.</p>
 					</li>
 				</ul>
 			</div>
-		
-			<!-- Formations -->
-			<div class="grid_16 formations">
-				<h3>Formations</h3>
-				<ul>
-					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
-					</li>
-					<li>
-						<h4><strong>Nom de la formation / diplôme</strong> à nom de l'école</h4>
-						<span class="lieu">Lieu</span>
-						<span class="dates">Période</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
-					</li>
-				</ul>
-			</div>
 
-			<!-- A propos -->
-			<div class="grid_lang apropos">
-				<h3>A propos</h3>
-				<p>Cette section vous sert de présentation.</p>
-				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu 
-condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
-Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
-Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
-risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
-Duis ut erat neque, eget consectetur tellus. </p>
+			<div class="grid_8 langues">
+				<h3>Langues</h3>
+				
+				
+				<p>Pellentesque nec nisi at sapien sagittis sagittis. Aliquam eu
+				condimentum mauris. Proin accumsan enim at risus hendrerit lobortis. 
+				Nunc sollicitudin sodales lectus, et rhoncus mi molestie hendrerit. 
+				Vestibulum velit lorem, rhoncus a congue ultricies, faucibus facilisis 
+				risus. Mauris turpis ante, aliquet ac venenatis at, ornare ut velit. 
+				Duis ut erat neque, eget consectetur tellus. 
+				</p>
+
 			</div>
 		
 			<!-- Loisirs -->
 			<div class="grid_8 loisirs">
 				<h3>Loisirs</h3>
-				<p><strong>Sports :</strong> ski,randonnée,musculation</p>
-				<p><strong>Musique :</strong> Violon</p>
+				<p><strong>Sports :</strong> ski, randonnée, musculation.</p>
+				<p><strong>Association :</strong>  Musique (Violon) </p>
 				<p>D'autres loisirs plus vagues, complétez ici.</p>
 			</div>
-		
-			<!-- Contact -->
-			<div class="grid_8 contact">
-				<h3>Contact</h3>
-				<p>Si mon profil vous intéresse, n'hésitez pas à me contacter :</p>
-				<ul>
-					<li class="lieu">Paris, France</li>
-					<li class="phone">06 00 00 00 00</li>
-					<li class="mail"><a href="mailto:mon.adresse@email.fr">mon.adresse@email.fr</a></li>
-					<li class="site"><a href="http://www.mon-site.fr/">www.mon-site.fr</a></li>
-					<li class="form"><a class="toContactform">via le formulaire de contact</a></li>
-                    <li class="form"><a class="toContactform">via le formulaire de contact</a></li>
+		</div>
+			<!-- Compétences -->
+			<div class="grid_8 competences">
+				<h3>Compétences</h3>
+				<ul class="barres">
+					<li data-skills="80">Compétences 1<span style="width: 80%;"></span></li>
+					<li data-skills="60">Compétences 2<span style="width: 60%;"></span></li>
+					<li data-skills="75">Compétences 3<span style="width: 75%;"></span></li>
+					<li data-skills="40">Compétences 4<span style="width: 40%;"></span></li>
+					<li data-skills="95">Compétences 5<span style="width: 95%;"></span></li>
 				</ul>
 			</div>
+		
+	</div>
 	</section>
 
 <!-- Scripts JavaScript -->
-<script src="CV/jquery-1.js"></script>
-<script src="CV/validate.js"></script>
+<script src="jquery-1.js"></script>
+<script src="validate.js"></script>
 <!--[if lt IE 9]>
 <script src="scripts/placeholder.js"></script>
 <![endif]-->
-<script src="CV/plugins.js"></script>
+<script src="plugins.js"></script>
 
 </body></html>
